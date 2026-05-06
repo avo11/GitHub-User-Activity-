@@ -17,11 +17,15 @@ Output:
 How It Works
 
 Calls the GitHub Events API
+
 Parses the JSON response
+
 Formats and prints each event to the terminal
 
 What I Learned
 
 Working with REST APIs in Python
+
 Parsing and handling JSON data
+
 Building a simple CLI application
