@@ -34,3 +34,5 @@ What I Learned
   Parsing and handling JSON data
 
   Building a simple CLI application
+
+Project URL: https://roadmap.sh/projects/github-user-activity
